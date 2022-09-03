@@ -18,12 +18,12 @@ Welcome to my Github page! I am Maylen and I graduated from Escuela Superior Pol
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Eating healthy and exercising 3 days a week
-- Improving my CV with some education apart from university
+- Improving my CV with some education apart from college
 
 #### :computer: Programming languages and tools: 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <br />
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
