@@ -22,11 +22,29 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
 
 #### :computer: Programming languages and tools: 
 <p>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<br />
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a title="Nonodename, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"><img width="512" alt="New Power BI Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png"></a>
+  <ul >
+ <p>Lenguajes:</p>
+<li>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+ <code><img width="4%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  
+</li>
+ </br>
+    <p>Programas estadísticos:</p>
+<li>
+  <code><img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg"></code>
+ </li>
+  </br>
+     <p>Librerías:</p>
+    <li>
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+    </li>
+     </br>
+    <p>Programas de visualización:</p>
+ <li>
+<a title="Nonodename, Public domain, via Wikimedia Commons" href="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"><img width="30" alt="tableau" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"></a>
+<a title="Nonodename, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"><img width="30" alt="New Power BI Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png"></a>
+</li>
+</ul>
 </p>
