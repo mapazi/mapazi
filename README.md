@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mapaz4/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mapaz0406@gmail.com)
 
-Welcome to my Github page! I am Maylen and I graduated from Escuela Superior Politécnica del Litoral (ESPOL) with a major in Economics.  
+Welcome to my Github page! I graduated from Escuela Superior Politécnica del Litoral (ESPOL) with a major in Economics.  
 
 <img align="right" alt="img" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="50%" height="auto" />
 
