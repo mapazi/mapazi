@@ -39,7 +39,7 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
      <p>Librerías:</p>
     <li>
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-      <a title="Isabela Presedo-Floyd, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg"><img width="50" alt="NumPy logo 2020" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png"></a>
+      <a title="Isabela Presedo-Floyd, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg"><img width="100" alt="NumPy logo 2020" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png"></a>
     </li>
      </br>
     <p>Programas de visualización:</p>
