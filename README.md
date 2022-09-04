@@ -34,6 +34,7 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
     <p>Programas estadísticos:</p>
 <li>
   <code><img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg"></code>
+  <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/spss-1.svg"></code>
  </li>
   </br>
      <p>Librerías:</p>
@@ -46,6 +47,7 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
  <li>
 <a title="Nonodename, Public domain, via Wikimedia Commons" href="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"><img width="30" alt="tableau" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"></a>
 <a title="Nonodename, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"><img width="30" alt="New Power BI Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png"></a>
+<code><img width="7%" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg"></code>
 </li>
 </ul>
 </p>
