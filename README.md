@@ -10,7 +10,7 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
 
 
 #### 🌱 Things I am currently working on: 
-- Improve my french language studies (currently A2)
+- Improve my french language skills (currently A2)
 - Taking online courses about Data Analytics 
 - Projects to build my portfolio 🚀 *coming soon*
 
@@ -26,8 +26,8 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
  <p>Lenguajes:</p>
 <li>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <code><img width="4%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-  <code><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   
 </li>
  </br>
