@@ -23,7 +23,7 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
 #### :computer: Programming languages and tools: 
 <p>
   <ul >
- <p>Lenguajes:</p>
+ <p>Languages:</p>
 <li>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <img width="4%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
@@ -31,20 +31,20 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
   
 </li>
  </br>
-    <p>Programas estadísticos:</p>
+    <p>Statistical Softwares:</p>
 <li>
   <img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg">
   <img width="7%" src="https://seeklogo.com/images/S/SPSS-logo-32F23C8B51-seeklogo.com.png">
  </li>
   </br>
-     <p>Librerías:</p>
+     <p>Libraries:</p>
     <li>
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
       <a title="Isabela Presedo-Floyd, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg"><img width="100" alt="NumPy logo 2020" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png"></a>
 <img width="14%" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg">
     </li>
      </br>
-    <p>Programas de visualización:</p>
+    <p>Data Visualization:</p>
  <li>
 <a title="Nonodename, Public domain, via Wikimedia Commons" href="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"><img width="30" alt="tableau" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"></a>
 <a title="Nonodename, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"><img width="30" alt="New Power BI Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png"></a>
