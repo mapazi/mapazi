@@ -28,7 +28,7 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <img width="4%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
 <img width="11%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-  
+<a title="Matplotlib, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg"><img width="128" alt="Matplotlib icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/128px-Matplotlib_icon.svg.png"></a>
 </li>
  </br>
     <p>Statistical Softwares:</p>
