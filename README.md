@@ -45,7 +45,7 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
  <li>
 <a title="Nonodename, Public domain, via Wikimedia Commons" href="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"><img width="30" alt="tableau" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"></a>
 <a title="Nonodename, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"><img width="30" alt="New Power BI Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png"></a>
-<a title="Isabela Presedo-Floyd, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg"><img width="512" alt="NumPy logo 2020" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png"></a>
+<a title="Isabela Presedo-Floyd, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg"><img width="30" alt="NumPy logo 2020" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png"></a>
 </li>
 </ul>
 </p>
