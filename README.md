@@ -16,7 +16,7 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
+- Coding at least 3-4 hours a day
 - Eating healthy and exercising 3 days a week
 - Improving my CV with some education apart from college
 
@@ -33,7 +33,7 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
  </br>
     <p>Programas estadísticos:</p>
 <li>
-  <code><img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg"></code>
+  <img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg">
   <code><img width="7%" src="https://seeklogo.com/images/S/SPSS-logo-32F23C8B51-seeklogo.com.png"></code>
  </li>
   </br>
