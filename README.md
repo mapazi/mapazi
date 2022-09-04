@@ -25,7 +25,7 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
   <ul >
  <p>Lenguajes:</p>
 <li>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <img width="4%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
 <img width="12%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
   
@@ -33,7 +33,7 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
  </br>
     <p>Programas estadísticos:</p>
 <li>
-  <img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg">
+  <img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg">
   <img width="7%" src="https://seeklogo.com/images/S/SPSS-logo-32F23C8B51-seeklogo.com.png">
  </li>
   </br>
