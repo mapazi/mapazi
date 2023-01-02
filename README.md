@@ -17,7 +17,6 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 3-4 hours a day
-- Eating healthy and exercising 3 days a week
 - Improving my CV with some education apart from college
 
 #### :computer: Programming languages and tools: 
