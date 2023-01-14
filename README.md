@@ -11,7 +11,7 @@ Welcome to my Github page! I graduated from Escuela Superior Politécnica del Li
 
 #### 🌱 Things I am currently working on: 
 - Improve my french language skills (currently A2)
-- Taking online courses about Data Analytics 
+- Taking online courses about Data Analytics/Science
 - Projects to build my portfolio
 
 #### :muscle: Things I am challenging myself with:
